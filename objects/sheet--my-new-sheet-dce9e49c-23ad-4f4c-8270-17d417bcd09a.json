@@ -1,0 +1,26 @@
+{
+  "qInfo": {
+    "qId": "dce9e49c-23ad-4f4c-8270-17d417bcd09a",
+    "qType": "sheet"
+  },
+  "qMetaDef": {
+    "title": "My new sheet",
+    "description": ""
+  },
+  "rank": 6,
+  "thumbnail": {
+    "qStaticContentUrlDef": {}
+  },
+  "columns": 24,
+  "rows": 12,
+  "cells": [],
+  "qChildListDef": {
+    "qData": {
+      "title": "/title"
+    }
+  },
+  "gridResolution": "small",
+  "layoutOptions": {
+    "mobileLayout": "LIST"
+  }
+}

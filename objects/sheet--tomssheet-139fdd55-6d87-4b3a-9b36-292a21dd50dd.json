@@ -1,0 +1,56 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "139fdd55-6d87-4b3a-9b36-292a21dd50dd",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "tomssheet",
+      "description": ""
+    },
+    "rank": 0,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "vuPamp",
+        "type": "map",
+        "col": 0,
+        "row": 0,
+        "colspan": 12,
+        "rowspan": 6,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 50,
+          "height": 50
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "vuPamp",
+          "qType": "map"
+        },
+        "qExtendsId": "zswLzs",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    }
+  ]
+}

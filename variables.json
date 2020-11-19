@@ -1,0 +1,16 @@
+[
+  {
+    "qInfo": {
+      "qId": "8c5f892e-2b92-4f17-b7e4-b9dc1dfdab91",
+      "qType": "variable"
+    },
+    "qMetaDef": {},
+    "qName": "file",
+    "qNumberPresentation": {
+      "qType": "U",
+      "qnDec": 10,
+      "qUseThou": 0
+    },
+    "qDefinition": "lib://testunbuild:jogdata-prime/consumersales/Sheet1.qvd"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "GdUUhw",
+      "qType": "masterobject"
+    },
+    "qMetaDef": {
+      "title": "Color by",
+      "tags": []
+    },
+    "qChildListDef": {
+      "qData": {
+        "info": "/qInfo"
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "visualization": "filterpane",
+    "masterVersion": 0.96,
+    "metadata": {}
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "d6399671-ce5a-4472-a398-360380bc72cb",
+          "qType": "listbox"
+        },
+        "qMetaDef": {},
+        "qListObjectDef": {
+          "qLibraryId": "e062299e-2690-4b48-8267-a3d25f214abb",
+          "qDef": {
+            "qGrouping": "N",
+            "qFieldDefs": [],
+            "qFieldLabels": [],
+            "qSortCriterias": [
+              {
+                "qSortByState": 1,
+                "qSortByNumeric": 1,
+                "qSortByAscii": 1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              }
+            ],
+            "qNumberPresentations": [],
+            "qActiveField": 0,
+            "autoSort": true,
+            "cId": "qVHWNS"
+          },
+          "qFrequencyMode": "N",
+          "qShowAlternatives": true,
+          "qInitialDataFetch": [],
+          "qExpressions": [],
+          "qOtherTotalSpec": {}
+        },
+        "showTitles": true,
+        "title": "Color by",
+        "subtitle": "",
+        "footnote": "",
+        "visualization": "listbox"
+      },
+      "qChildren": []
+    }
+  ]
+}
